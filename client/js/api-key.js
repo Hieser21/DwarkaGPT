@@ -1,7 +1,7 @@
 window.addEventListener("DOMContentLoaded", () => {  
    var myToast = Toastify({
   text: "This page is still in development, so please expect bugs. Click this toast to join the Discord and keep track of bugs and updates.",
-  duration: 3000,
+  duration: 5000,
   destination: "https://discord.gg/dwarka",
   newWindow: true,
   close: true,
